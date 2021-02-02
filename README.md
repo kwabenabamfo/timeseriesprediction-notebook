@@ -1,2 +1,2 @@
 # timeseries-prediction
-A notebook where I showcase some time series prediction work
+A notebook where I showcase my expertise with time series prediction
